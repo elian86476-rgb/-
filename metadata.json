@@ -1,0 +1,6 @@
+{
+  "name": "أكاديمية الفرسان",
+  "description": "نظام متكامل لإدارة أكاديمية الكاراتيه والكونغ فو وتحفيظ القرآن الكريم مع دعم صلاحيات الإدارة والمدربين وأولياء الأمور",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
